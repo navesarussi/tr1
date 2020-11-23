@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    cout<<"asd"<<endl;
+    cout<<"111111111111111111"<<endl;
     system("pause");
     return  1;
 }   
